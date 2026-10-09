@@ -1,4 +1,8 @@
 ## Hi there 👋
+I'm a wannabe programmer looking to find employment in the field and bettering my coding skills.
+
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/remisence?theme=dark&font=Pavanam)
 
 <!--
 **Remisence/remisence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
